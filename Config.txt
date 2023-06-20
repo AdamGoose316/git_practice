@@ -1,1 +1,5 @@
 This is a config file to test more stuff. 
+
+Param1: On
+Param2: Off
+Param3: 100
